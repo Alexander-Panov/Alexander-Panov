@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexander-Panov
-- 👀 I’m interested in WEB
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Backend
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 palehou@gmail.com
